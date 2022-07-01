@@ -1,5 +1,5 @@
-
-[
+{
+"result":[
   {
     "title": "The Time Traveler's Wife",
     "authorId": 1,
@@ -41,4 +41,4 @@
 "categoryId": 12
 }
 ]
-
+}
